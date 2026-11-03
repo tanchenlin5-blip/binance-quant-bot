@@ -1,0 +1,16 @@
+
+{
+  "symbol": "BTCUSDT",
+  "watchlist": [],
+  "timeframe": "15m",
+  "scan_interval_seconds": 90,
+  "max_symbols": 40,
+  "max_positions": 3,
+  "initial_balance": 1000,
+  "risk_per_trade": 0.005,
+  "daily_loss_limit": 0.02,
+  "leverage": 1,
+  "atr_stop_multiplier": 1.8,
+  "take_profit_r": 2.0,
+  "dry_run_only": true
+}
